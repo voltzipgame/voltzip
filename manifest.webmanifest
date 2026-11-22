@@ -1,0 +1,19 @@
+{
+  "name": "Voltzip",
+  "short_name": "Voltzip",
+  "description": "Tek tuşla oynanan, şimşek hızında koşu ve zıplama oyunu.",
+  "id": "/",
+  "start_url": "./",
+  "scope": "./",
+  "display": "fullscreen",
+  "orientation": "any",
+  "background_color": "#2a1f5c",
+  "theme_color": "#2a1f5c",
+  "lang": "tr",
+  "categories": ["games"],
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
+    {"src": "maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
